@@ -52,4 +52,4 @@ def Gerador_De_Link():      #Gera o link final e adiciona ao banco de dados em f
 
 
 while True:
-    Menu()
+    Menu()      #Inicio do código
